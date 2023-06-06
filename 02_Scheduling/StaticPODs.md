@@ -1,1 +1,7 @@
-![test](images/static-01.png)
+## 1. 문제
+
+## 2. 해결과정
+* 아직 미해결, 해결 필요 (staticPod config yaml 경로 확인 방법 등등..)
+
+## 3. 결론
+* 아직 미해결
